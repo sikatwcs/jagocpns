@@ -1,0 +1,17 @@
+node_modules/
+.codex/
+.output/
+.nitro/
+.tanstack/
+dist/
+
+.env
+.env.local
+.env.*.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.tsbuildinfo
+
+client/dist/

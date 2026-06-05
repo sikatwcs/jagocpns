@@ -1,0 +1,10 @@
+revoke all on table public.profiles from anon;
+revoke all on table public.user_roles from anon;
+revoke all on table public.user_tryouts from anon;
+revoke all on table public.user_answers from anon;
+revoke all on table public.user_scores from anon;
+revoke all on table public.wallet_balances from anon;
+revoke all on table public.transactions from anon;
+revoke all on table public.user_tryout_access from anon;
+revoke all on table public.free_forms from anon;
+revoke all on table public.question_bank_items from anon;
